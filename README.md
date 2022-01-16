@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Galia
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Flutter and working on my pet-project
+Waster is the app to store my transactions' history.
 
 <!---
 GalaGM/GalaGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
